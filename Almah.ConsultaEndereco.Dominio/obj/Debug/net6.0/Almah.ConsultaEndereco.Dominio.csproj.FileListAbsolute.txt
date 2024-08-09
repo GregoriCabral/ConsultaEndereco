@@ -1,0 +1,11 @@
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Dominio\bin\Debug\net6.0\Almah.ConsultaEndereco.Dominio.deps.json
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Dominio\bin\Debug\net6.0\Almah.ConsultaEndereco.Dominio.dll
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Dominio\bin\Debug\net6.0\Almah.ConsultaEndereco.Dominio.pdb
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Dominio\obj\Debug\net6.0\Almah.ConsultaEndereco.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Dominio\obj\Debug\net6.0\Almah.ConsultaEndereco.Dominio.AssemblyInfoInputs.cache
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Dominio\obj\Debug\net6.0\Almah.ConsultaEndereco.Dominio.AssemblyInfo.cs
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Dominio\obj\Debug\net6.0\Almah.ConsultaEndereco.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Dominio\obj\Debug\net6.0\Almah.ConsultaEndereco.Dominio.dll
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Dominio\obj\Debug\net6.0\refint\Almah.ConsultaEndereco.Dominio.dll
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Dominio\obj\Debug\net6.0\Almah.ConsultaEndereco.Dominio.pdb
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Dominio\obj\Debug\net6.0\ref\Almah.ConsultaEndereco.Dominio.dll

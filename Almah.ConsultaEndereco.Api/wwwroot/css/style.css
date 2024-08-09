@@ -1,0 +1,185 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --color-bg: #f1f1f1;
+    --color-white: #fff;
+    --color-black: #000;
+    --color-gray-100: #D9D9D9;
+    --color-gray-200: #CAC8CA;
+    --color-blue-200: #3a7dc0;
+    --color-blue-300: #3575B3;
+    --color-blue-400: #144679;
+    --color-blue-500: #0b335c;
+}
+
+::-webkit-scrollbar {
+    width: .4rem;
+}
+
+::-webkit-scrollbar-track {
+    background-color: var(--color-blue-300);
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--color-blue-500);
+    border-radius: .8rem;
+}
+
+body {
+    height: 100vh;
+    font-size: 62.5%;
+    font-family: "Public Sans", sans-serif;
+    font-weight: 400;
+    background-color: var(--color-bg);
+}
+
+.formulario-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4.0rem;
+    height: 100%;
+    width: 100%;
+}
+
+.cep > h2 {
+    font-size: 2.6rem;
+    margin-bottom: 1.8rem;
+    margin-left: 3.2rem;
+    color: var(--color-blue-300);
+}
+
+.lista {
+    margin-top: 4rem;
+}
+
+.form-wrapper {
+    height: 32rem;
+    width: 30rem;
+    color: var(--color-white);
+    background-color: var(--color-blue-300);
+    border: solid 1px var(--color-blue-200);
+    border-radius: 6.0rem 0 6.0rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.8rem;
+    padding: 2.4rem;
+}
+
+    .form-wrapper h2 {
+        font-weight: 700;
+        font-size: 2.0rem;
+        margin-top: 1.2rem;
+    }
+
+.input-style {
+    width: 100%;
+    font-size: 1.0rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+}
+
+.input-wrapper-pesquisa img,
+.input-city img {
+    width: 100%;
+    height: 100%;
+}
+
+.input-wrapper-pesquisa {
+    width: 100%;
+    margin-top: 1.2rem;
+    margin-bottom: 1.2rem;
+    display: flex;
+    gap: 1.0rem;
+    align-items: center;
+}
+
+    .input-wrapper-pesquisa button {
+        margin-top: 1.2rem;
+        width: 3.0rem;
+        height: 2.5rem;
+        padding: 0.5rem;
+        border: none;
+        border-radius: 0.4rem;
+        background-color: var(--color-blue-400);
+        cursor: pointer;
+    }
+
+        .input-wrapper-pesquisa button:hover,
+        .input-city button:hover {
+            background-color: var(--color-blue-500);
+        }
+
+.input-style input, select {
+    width: 100%;
+    height: 2.5rem;
+    padding: 0.4rem;
+    font-size: 1.1rem;
+    border: solid 1px var(--color-gray-100);
+    border-radius: 0.2rem;
+    cursor: default;
+    outline: none;
+}
+
+.input-wrapper-pesquisa input {
+    cursor: pointer;
+}
+
+.input-style input::placeholder {
+    color: var(--color-gray-200);
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.input-style input:focus {
+    border: solid 2px var(--color-blue-500);
+}
+
+.input-city {
+    display: flex;
+    gap: 1.0rem;
+    align-items: center;
+    width: 100%;
+}
+
+    .input-city #estado {
+        width: 6rem;
+    }
+
+.lista .input-city {
+    padding-left: 2rem;
+    padding-top: 1rem;
+}
+
+.input-city button {
+    width: 8.0rem;
+    height: 2.6rem;
+    padding: 0.5rem;
+    margin-top: 1.6rem;
+    border: none;
+    border-radius: 0.4rem;
+    background-color: var(--color-blue-400);
+    cursor: pointer;
+}
+
+.lista-endereco {
+    margin-top: 1rem;
+    background-color: var(--color-white);
+    height: 100%;
+    width: 100%;
+    border-radius: 0.8rem;
+    overflow: auto;
+    color: var(--color-black);
+    font-size: 1rem;
+    padding: 1rem;
+}
+
+    .lista-endereco p {
+        margin-bottom: 1.2rem;
+    }

@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grego\\source\\repos\\Almah.ConsultaEndereco.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D6FED2-92DB-4475-933F-52EDC1EDCAE2}|Almah.ConsultaEndereco.Api\\Almah.ConsultaEndereco.Api.csproj|c:\\users\\grego\\source\\repos\\almah.consultaendereco.api\\almah.consultaendereco.api\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A8D6FED2-92DB-4475-933F-52EDC1EDCAE2}|Almah.ConsultaEndereco.Api\\Almah.ConsultaEndereco.Api.csproj|solutionrelative:almah.consultaendereco.api\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D6FED2-92DB-4475-933F-52EDC1EDCAE2}|Almah.ConsultaEndereco.Api\\Almah.ConsultaEndereco.Api.csproj|c:\\users\\grego\\source\\repos\\almah.consultaendereco.api\\almah.consultaendereco.api\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A8D6FED2-92DB-4475-933F-52EDC1EDCAE2}|Almah.ConsultaEndereco.Api\\Almah.ConsultaEndereco.Api.csproj|solutionrelative:almah.consultaendereco.api\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D6FED2-92DB-4475-933F-52EDC1EDCAE2}|Almah.ConsultaEndereco.Api\\Almah.ConsultaEndereco.Api.csproj|c:\\users\\grego\\source\\repos\\almah.consultaendereco.api\\almah.consultaendereco.api\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8D6FED2-92DB-4475-933F-52EDC1EDCAE2}|Almah.ConsultaEndereco.Api\\Almah.ConsultaEndereco.Api.csproj|solutionrelative:almah.consultaendereco.api\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\grego\\source\\repos\\Almah.ConsultaEndereco.Api\\Almah.ConsultaEndereco.Api\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "Almah.ConsultaEndereco.Api\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\grego\\source\\repos\\Almah.ConsultaEndereco.Api\\Almah.ConsultaEndereco.Api\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "Almah.ConsultaEndereco.Api\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAswLkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T18:38:40.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\grego\\source\\repos\\Almah.ConsultaEndereco.Api\\Almah.ConsultaEndereco.Api\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "Almah.ConsultaEndereco.Api\\wwwroot\\js\\script.js",
+              "ToolTip": "C:\\Users\\grego\\source\\repos\\Almah.ConsultaEndereco.Api\\Almah.ConsultaEndereco.Api\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "Almah.ConsultaEndereco.Api\\wwwroot\\js\\script.js",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwEcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-09T18:34:13.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\grego\\source\\repos\\Almah.ConsultaEndereco.Api\\Almah.ConsultaEndereco.Api\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Almah.ConsultaEndereco.Api\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\grego\\source\\repos\\Almah.ConsultaEndereco.Api\\Almah.ConsultaEndereco.Api\\wwwroot\\index.html",
+              "RelativeToolTip": "Almah.ConsultaEndereco.Api\\wwwroot\\index.html",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAGYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-09T18:25:47.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

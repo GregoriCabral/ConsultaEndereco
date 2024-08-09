@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\grego\\source\\repos\\Almah.ConsultaEndereco.Api\\Almah.ConsultaEndereco.Api\\wwwroot\\assets\\Lupa.svg",
+      "PackagePath": "staticwebassets\\assets\\Lupa.svg"
+    },
+    {
+      "Id": "C:\\Users\\grego\\source\\repos\\Almah.ConsultaEndereco.Api\\Almah.ConsultaEndereco.Api\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\grego\\source\\repos\\Almah.ConsultaEndereco.Api\\Almah.ConsultaEndereco.Api\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\grego\\source\\repos\\Almah.ConsultaEndereco.Api\\Almah.ConsultaEndereco.Api\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Almah.ConsultaEndereco.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Almah.ConsultaEndereco.Api.props",
+      "PackagePath": "build\\Almah.ConsultaEndereco.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Almah.ConsultaEndereco.Api.props",
+      "PackagePath": "buildMultiTargeting\\Almah.ConsultaEndereco.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Almah.ConsultaEndereco.Api.props",
+      "PackagePath": "buildTransitive\\Almah.ConsultaEndereco.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

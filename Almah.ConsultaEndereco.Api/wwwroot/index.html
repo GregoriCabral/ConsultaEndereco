@@ -1,0 +1,113 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap"
+          rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Consulta de Endereços</title>
+</head>
+
+<body>
+    <div class="formulario-wrapper">
+        <form class="formulario cep">
+            <h2>Consulta de Endereços</h2>
+            <fieldset class="form-wrapper">
+                <h2>Consulta Por CEP</h2>
+
+                <div class="input-wrapper-pesquisa">
+                    <div class="input-style">
+                        <label for="cep">Buscar por CEP:</label>
+                        <input name="cep" id="cep" type="text" maxlength="9" placeholder="Informe o CEP">
+                    </div>
+                    <button type="button" onclick="pesquisaCep(document.getElementById('cep').value);" id="pesquisa"><img src="assets/Lupa.svg" alt="Lupa"></button>
+                </div>
+
+                <div class="input-style">
+                    <label for="rua">Rua:</label>
+                    <input name="rua" id="rua" type="textarea" placeholder="Rua" readonly>
+                </div>
+                <div class="input-style">
+                    <label for="bairro">Bairro:</label>
+                    <input name="bairro" id="bairro" type="text" placeholder="Bairro" readonly>
+                </div>
+
+                <div class="input-city">
+                    <div class="input-style">
+                        <label for="cidade">Cidade:</label>
+                        <input name="cidade" id="cidade" type="text" placeholder="Cidade" readonly>
+                    </div>
+                    <div class="input-style">
+                        <label for="estado">Estado:</label>
+                        <input name="estado" id="estado" type="text" placeholder="UF" readonly>
+                    </div>
+                </div>
+            </fieldset>
+        </form>
+
+        <form class="formulario lista">
+            <fieldset class="form-wrapper">
+                <h2>Lista de Endereços</h2>
+                <div class="input-city">
+                    <div class="input-style">
+                        <label for="cidade">Cidade:</label>
+                        <input name="cidade" id="cidadeList" type="text" placeholder="Cidade">
+                    </div>
+                    <div class="input-style">
+                        <label for="estado">Estado:</label>
+                        <select name="estado" id="estadoList" class="placeholder">
+                            <option value="AC">AC</option>
+                            <option value="AL">AL</option>
+                            <option value="AP">AP</option>
+                            <option value="AM">AM</option>
+                            <option value="BA">BA</option>
+                            <option value="CE">CE</option>
+                            <option value="DF">DF*</option>
+                            <option value="ES">ES</option>
+                            <option value="GO">GO</option>
+                            <option value="MA">MA</option>
+                            <option value="MT">MT</option>
+                            <option value="MS">MS</option>
+                            <option value="MG">MG</option>
+                            <option value="PA">PA</option>
+                            <option value="PB">PB</option>
+                            <option value="PR">PR</option>
+                            <option value="PE">PE</option>
+                            <option value="PI">PI</option>
+                            <option value="RJ">RJ</option>
+                            <option value="RN">RN</option>
+                            <option value="RS">RS</option>
+                            <option value="RO">RO</option>
+                            <option value="RR">RR</option>
+                            <option value="SC">SC</option>
+                            <option value="SP">SP</option>
+                            <option value="SE">SE</option>
+                            <option value="TO">TO</option>
+                        </select>
+                    </div>
+                    <button type="button" onclick="listarEnderecos(document.getElementById('estadoList').value, document.getElementById('cidadeList').value)"
+                            id="pesquisa">
+                        <img src="assets/Lupa.svg" alt="Lupa">
+                    </button>
+                </div>
+
+                <div class="lista-endereco">
+                    <div id="responseList">
+                        <br />
+                    </div>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>

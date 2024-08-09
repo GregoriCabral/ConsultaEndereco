@@ -1,0 +1,15 @@
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Servico\bin\Debug\net6.0\Almah.ConsultaEndereco.Servico.deps.json
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Servico\bin\Debug\net6.0\Almah.ConsultaEndereco.Servico.dll
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Servico\bin\Debug\net6.0\Almah.ConsultaEndereco.Servico.pdb
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Servico\bin\Debug\net6.0\Almah.ConsultaEndereco.Dominio.dll
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Servico\bin\Debug\net6.0\Almah.ConsultaEndereco.Dominio.pdb
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Servico\obj\Debug\net6.0\Almah.ConsultaEndereco.Servico.csproj.AssemblyReference.cache
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Servico\obj\Debug\net6.0\Almah.ConsultaEndereco.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Servico\obj\Debug\net6.0\Almah.ConsultaEndereco.Servico.AssemblyInfoInputs.cache
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Servico\obj\Debug\net6.0\Almah.ConsultaEndereco.Servico.AssemblyInfo.cs
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Servico\obj\Debug\net6.0\Almah.ConsultaEndereco.Servico.csproj.CoreCompileInputs.cache
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Servico\obj\Debug\net6.0\Almah.Co.21062619.Up2Date
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Servico\obj\Debug\net6.0\Almah.ConsultaEndereco.Servico.dll
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Servico\obj\Debug\net6.0\refint\Almah.ConsultaEndereco.Servico.dll
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Servico\obj\Debug\net6.0\Almah.ConsultaEndereco.Servico.pdb
+C:\Users\grego\source\repos\Almah.ConsultaEndereco.Api\Almah.ConsultaEndereco.Servico\obj\Debug\net6.0\ref\Almah.ConsultaEndereco.Servico.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Almah.ConsultaEndereco.Api.props" />
+</Project>
